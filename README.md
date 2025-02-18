@@ -1,4 +1,4 @@
-# Alem School Session Series
+# Alem School Golang Session Series
 
 ## Description
 
