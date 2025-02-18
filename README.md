@@ -1,4 +1,4 @@
-# Alem School Golang Session Series
+# Alem School Golang Series
 
 ## Description
 
@@ -9,22 +9,25 @@
 - State the objectives here
 
 ## Table of Contents
-### Introduction. Data Types: Primitives and Structures.
+### Part 1 - Sessions.
+#### Introduction. Data Types: Primitives and Structures.
 
-### Pointers.
+#### Pointers.
 
-### Interface.
+#### Interface.
 
-### Concurrency.
+#### Concurrency.
 
-### Testing.
+#### Testing.
 
-### Logging.
+#### Logging.
 
-### Database, Normalization and other.
+#### Database, Normalization and other.
 
-### ERD.
+#### ERD.
 
-### Clean Architecture in Go Projects.
+#### Clean Architecture in Go Projects.
 
-### Git & Github.
+#### Git & Github.
+
+### Part 2 - Project.
