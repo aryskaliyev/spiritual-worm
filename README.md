@@ -23,6 +23,9 @@
 #### Logging.
 
 #### Database, Normalization and other.
+- Normalization
+- Joins
+- Indexing
 
 #### ERD.
 
