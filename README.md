@@ -23,6 +23,7 @@
 #### Logging.
 
 #### Database, Normalization and other.
+- Migrations
 - Normalization
 - Joins
 - Indexing
