@@ -19,6 +19,10 @@
 #### Concurrency.
 
 #### Testing.
+- Unit testing
+- Integration testing
+  - Database integration testing
+  - API integration testing
 
 #### Logging.
 
