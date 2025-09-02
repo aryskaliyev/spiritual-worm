@@ -37,5 +37,6 @@
 #### Clean Architecture in Go Projects.
 
 #### Git & Github.
+#### Docker
 
 ### Part 2 - Project.
